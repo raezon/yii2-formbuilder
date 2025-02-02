@@ -2,17 +2,19 @@
 # yarn lockfile v1
 
 
-formBuilder@^2.2.6:
-  version "2.5.3"
-  resolved "https://registry.yarnpkg.com/formBuilder/-/formBuilder-2.5.3.tgz#2b5b59c1a5eb2bcd635dae5a72312068dae14711"
+formBuilder@^2.10.9:
+  version "2.10.9"
+  resolved "https://registry.yarnpkg.com/formBuilder/-/formBuilder-2.10.9.tgz#828098079e7f764fc66d9899892d8c2ada55f32e"
+  integrity sha512-Z35Ul+w/3i0rNf+1d/BkMJwYPB+UkYbAJhouN0Xse8LiplFFDl78BteQzZplcCzLtiDnsd8Na9mchjLVyZg0hg==
   dependencies:
-    jquery "^3.1.1"
+    jquery "3.3.1"
     jquery-ui-sortable "*"
 
 jquery-ui-sortable@*:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/jquery-ui-sortable/-/jquery-ui-sortable-1.0.0.tgz#0ee062ce02b29b36585ede3a3e0ddde666060f96"
 
-jquery@^3.1.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.2.1.tgz#5c4d9de652af6cd0a770154a631bba12b015c787"
+jquery@3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.3.1.tgz#958ce29e81c9790f31be7792df5d4d95fc57fbca"
+  integrity sha512-Ubldcmxp5np52/ENotGxlLe6aGMvmF4R8S6tZjsP6Knsaxd/xp3Zrh50cG93lR6nPXyUFwzN3ZSOQI0wRJNdGg==
